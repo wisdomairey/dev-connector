@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "build": "npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Brad Traversy",
+  "author": "wisdom-airey",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
